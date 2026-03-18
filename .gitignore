@@ -7,3 +7,4 @@
 !.config/**/*
 !.aerospace.toml
 !.zshrc.config/github-copilot/apps.json
+.config/github-copilot/apps.json

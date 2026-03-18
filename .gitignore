@@ -3,6 +3,7 @@
 
 # 2. But do NOT ignore these specific files
 !.gitignore
-!.config
+!.config/
+!.config/**/*
 !.aerospace.toml
 !.zshrc

@@ -1,0 +1,8 @@
+# 1. Ignore everything
+*
+
+# 2. But do NOT ignore these specific files
+!.gitignore
+!.config
+!.aerospace.toml
+!.zshrc
